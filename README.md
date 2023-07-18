@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murat</h1>
 <h3 align="center">Data Science Enthusiast | Engineer</h3>
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m currently learning **A/B Testing**
 
 - 📝 I regularly write articles on [https://medium.com/@murattkiran](https://medium.com/@murattkiran)
 
