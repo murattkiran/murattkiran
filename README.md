@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Recommendation Systems**
 
-- 📝 I regularly write articles on [https://medium.com/@murattkiran](https://medium.com/@murattkiran)
+
 
 - 💬 Ask me about **anything!**
 
