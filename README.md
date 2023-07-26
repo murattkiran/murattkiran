@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Murat</h1>
 <h3 align="center">🚀 Welcome to my GitHub Profile! 
+
 📊 Passionate about Data Science and constantly striving to enhance my skills in this fascinating field. 
 
 🔍 Exploring the depths of data, deciphering insights, and creating meaningful solutions is what drives me. With each project, I aim to push the boundaries of what's possible with data. 
