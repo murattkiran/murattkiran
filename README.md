@@ -13,8 +13,6 @@
 
 Happy coding!</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
-
 - 💬 Ask me about **anything!**
 
 - 📫 How to reach me **murattkiran@gmail.com**
