@@ -13,7 +13,7 @@
 
 Happy coding!</h3>
 
-- 🌱 I’m currently learning **Recommendation Systems**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **anything!**
 
