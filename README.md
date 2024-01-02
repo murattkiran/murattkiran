@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋, I'm Murat</h1>
+
+📊 Passionate about Data Science and constantly striving to enhance my skills in this fascinating field. 
+
+🔍 Exploring the depths of data, deciphering insights, and creating meaningful solutions is what drives me. With each project, I aim to push the boundaries of what's possible with data. 
+
+🌱 As an avid learner, I believe in the power of continuous growth. I am committed to expanding my knowledge and expertise in Data Science by immersing myself in new concepts and technologies. 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/murattkiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murattkiran" height="30" width="40" /></a>
