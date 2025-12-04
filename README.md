@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murat</h1>
-<h3 align="center">Passionate about Data Science and constantly striving to enhance my skills in this fascinating field.</h3>
+<h3 align="center">Passionate about Data Science and constantly striving to enhance my skills in this field.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
